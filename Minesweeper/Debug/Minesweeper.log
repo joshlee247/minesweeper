@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Windows\Visual Studio\Minesweeper\Source.cpp(22,12): error C2144:  syntax error: 'int' should be preceded by ')'
+E:\Windows\Visual Studio\Minesweeper\Source.cpp(22,12): error C2144:  syntax error: 'int' should be preceded by ';'
+E:\Windows\Visual Studio\Minesweeper\Source.cpp(22,23): error C2062:  type 'int' unexpected
+E:\Windows\Visual Studio\Minesweeper\Source.cpp(22,24): error C2059:  syntax error: ')'
